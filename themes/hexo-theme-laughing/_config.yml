@@ -1,0 +1,47 @@
+# Icon
+favicon: /images/favicon.ico
+# SEO
+keywords: Software, Programming, Automation, Ansible, DevOps, Operations, Ops, AWS, Cloud, Saas
+# Header
+page_background: http://callfiles.ueibo.com/hexo-theme-laughing/page_background.jpg
+page_menu_button: dark
+post_background: http://callfiles.ueibo.com/hexo-theme-laughing/post_background.jpg
+post_menu_button: light
+title_plancehold: 随笔
+author:
+  head: /images/profile.jpg
+  signature: Web | DevOps | Infrastructure | Automation | Ansible | AWS
+
+navication:
+  - name: GitHub
+    link: https://github.com/tomwwright
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/tomwwright
+  - name: Twitter
+    link: https://twitter.com/1kMonkeysTyping
+
+# content
+content_width: 800
+# Footer
+## Social icon list: [facebook, twitter, weibo, wechat, github, stackoverflow, linkin, email, segmentfault, flickr, zhihu, disqus, douban, bilibili]
+social:
+  - name: GitHub
+    icon: github
+    link: https://github.com/tomwwright
+  - name: LinkedIn
+    icon: linkin
+    link: https://www.linkedin.com/in/tomwwright
+  - name: Twitter
+    icon: twitter
+    link: https://twitter.com/1kMonkeysTyping
+
+# Duoshuo
+duoshuo:
+  enable: false
+  siteName: na
+
+# Copyright
+copyright:
+  record: false
+  hexo: true
+  laughing: true
