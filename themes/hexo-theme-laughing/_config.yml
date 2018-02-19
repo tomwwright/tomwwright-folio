@@ -16,7 +16,7 @@ navication:
   - name: GitHub
     link: https://github.com/tomwwright
   - name: LinkedIn
-    link: https://www.linkedin.com/in/tomwwright
+    link: https://linkedin.com/in/tomwwright
   - name: Twitter
     link: https://twitter.com/1kMonkeysTyping
 
@@ -30,7 +30,7 @@ social:
     link: https://github.com/tomwwright
   - name: LinkedIn
     icon: linkin
-    link: https://www.linkedin.com/in/tomwwright
+    link: https://linkedin.com/in/tomwwright
   - name: Twitter
     icon: twitter
     link: https://twitter.com/1kMonkeysTyping
